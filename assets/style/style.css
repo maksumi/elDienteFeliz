@@ -1,0 +1,13 @@
+/* 
+ Paleta de colores:  
+    #E5D4EC Snuff: Fondo ó Texto Claros
+    #7DC2D8 Isla Aqua: Acento Claro
+    #BEDEFB Azul Vela: Color principal, color de la marca
+    #A794DC Púrpura Frío: Acento Oscuro
+    #7C6DDC Púrpura Medio: Texto ó Fondo Oscuros
+*/
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
